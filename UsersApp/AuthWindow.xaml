@@ -1,0 +1,32 @@
+﻿<Window x:Class="UsersApp.AuthWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UsersApp"
+       mc:Ignorable="d"
+        Title="MainWindow" MinHeight="500" Width="800">
+    <Grid Background="Gray">
+        <Border Background="White" CornerRadius="25" Margin="50,50,50,170" Width="auto" Padding="30">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="50"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock  Text="Авторизация" FontSize="30" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <Grid Margin="0,0,0,10">
+                    <Button Click="reg_Click"   HorizontalAlignment="Left" Content="Регистрация" Width="632"/>
+                </Grid>
+
+
+                <TextBox x:Name="loginBox" materialDesign:HintAssist.Hint="Введите логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <PasswordBox x:Name="passwordBox" materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+
+
+                <Button x:Name="authButton" Click="authButton_Click" Content="Войти" Margin="0, 20, 0, 0"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
+

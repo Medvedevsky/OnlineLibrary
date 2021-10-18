@@ -1,0 +1,90 @@
+C:\Users\Студент\source\repos\UsersApp\UsersApp\bin\Debug\UsersApp.exe.config
+C:\Users\Студент\source\repos\UsersApp\UsersApp\bin\Debug\UsersApp.exe
+C:\Users\Студент\source\repos\UsersApp\UsersApp\bin\Debug\UsersApp.pdb
+C:\Users\Студент\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Студент\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Студент\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Студент\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Студент\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp_MarkupCompile.cache
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp_MarkupCompile.lref
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\App.baml
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.g.resources
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.Properties.Resources.resources
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CopyComplete
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.exe
+C:\Users\Студент\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.pdb
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\UsersApp.exe.config
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\UsersApp.exe
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\UsersApp.pdb
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp_MarkupCompile.cache
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp_MarkupCompile.lref
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\App.baml
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp.g.resources
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp.Properties.Resources.resources
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CopyComplete
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp.exe
+C:\Users\Студент\Desktop\UsersApp\UsersApp\obj\Debug\UsersApp.pdb
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\ItProger.db
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\EntityFramework.dll
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\EntityFramework.xml
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Студент\Desktop\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\ItProger.db
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\UsersApp.exe.config
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\UsersApp.exe
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\UsersApp.pdb
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\EntityFramework.dll
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\EntityFramework.xml
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp_MarkupCompile.cache
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp_MarkupCompile.lref
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\App.baml
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp.g.resources
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp.Properties.Resources.resources
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CopyComplete
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp.exe
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp.pdb
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\AuthWindow.g.cs
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\AuthWindow.baml
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UserPageWindow.g.cs
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UsersApp_Content.g.cs
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\UserPageWindow.baml
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\BooksCatalog.g.cs
+C:\Users\Студент\Desktop\Новая папка\UsersApp\UsersApp\obj\Debug\BooksCatalog.baml
